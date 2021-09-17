@@ -2,7 +2,7 @@
 
 echo "*****Running unit tests******"
 
-npm test
+npm test -- --watchAll=false
 
 status=$?
 
