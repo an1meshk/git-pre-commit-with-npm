@@ -11,4 +11,4 @@ git commit -m "Any Message"
 
 Files to follow:
 - scritps/pre-commit
-- package.json (line no 15)
+- package.json (line no. 15)
