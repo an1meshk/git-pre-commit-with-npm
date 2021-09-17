@@ -1,0 +1,9 @@
+#!/bin/sh
+
+echo "*****Running unit tests******"
+
+npm test
+
+status=$?
+
+exit $status
