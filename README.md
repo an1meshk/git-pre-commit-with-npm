@@ -11,4 +11,4 @@ git commit -m "Any Message"
 
 Files to follow:
 - scritps/pre-commit
-- build.gradle (line no 24 - 30)
+- package.json (line no 15)
